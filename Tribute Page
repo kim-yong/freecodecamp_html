@@ -1,0 +1,41 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport">
+    <link rel="stylesheet" href="styles.css">
+    <title id="title">Injection Moulding</title>
+  </head>
+
+  <main id="main">
+    <h1>Injection Moulding</h1>
+    <section>
+      <figure id="img-div">
+        <img id="image" src="https://www.custompartnet.com/wu/images/im/injectionMolding_machine_overview.png"></img>
+        <figcaption id="img-caption">Figure of Injection Moulding</figcaption>
+      </figure>
+      <p id="tribute-info">
+        This is an <a href="https://en.wikipedia.org/wiki/Injection_moulding" id="tribute-link" target="_blank">injection moulding</a> machine.
+      <p>
+    </section>
+  </main>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+h1{
+  color: black;
+}
+
+img{
+  display: block;
+  max-width: 100%;
+  justify-content: center;
+}
+
+** end of undefined **
+
