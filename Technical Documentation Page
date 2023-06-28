@@ -1,0 +1,95 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>JS Documentation</title>
+  </head>
+  
+  <body>
+    <nav id="navbar">
+      <header>JS Documentation</header>
+      <a href="#Introduction" class="nav-link">Introduction</a>
+      <a href="#What_you_should_already_know" class="nav-link">What you should already know</a>
+      <a href="#JavaScript_and_Java" class="nav-link">JavaScript and Java</a>
+      <a href="#Sample_Code" class="nav-link">Sample Code</a>
+      <a href="#Variables" class="nav-link">Variables</a>
+    </nav>
+    <main id="main-doc">
+      <section class="main-section" id="Introduction">
+        <header>Introduction</header>
+        <section>
+          <p>JavaScript is ..</p>
+          <p>JavaScript contains .. for example:</p>
+          <ul>
+            <li>Client-side JavaScript</li>
+            <li>Server-side JavaScript</li>
+          </ul>
+        </section>
+      </section>
+
+      <section class="main-section" id="What_you_should_already_know">
+        <header>What you should already know</header>
+        <section>
+          <p>This guide assumes you have the following basic background:</p>
+          <ul>
+            <li>Internet and the World Wide Web (WWW)</li>
+            <li>HyperText Markup Language (HTML)</li>
+            <li>JavaScript</li>
+          </ul>
+        </section>
+      </section>
+
+      <section class="main-section" id="JavaScript_and_Java">
+        <header>JavaScript and Java</header>
+        <section>
+          <p>JavaScript and Java</p>
+          <p>JavaScript supports a runtime system</p>
+          <p>JavaScript is a very free-form language</p>
+        </section>
+      </section>
+
+      <section class="main-section" id="Sample_Code">
+        <header>Sample Code</header>
+          <p>"Hello world"</p>
+          <code>function GreetMe(Name)</code>
+        <code>{</code>
+        <code>alert("Hello " + Name);</code>
+        <code>}</code>
+        <code>GreetMe("World")</code>
+
+          <p>unfold in your browser</p>
+        <section></section>
+      </section>
+
+      <section class="main-section" id="Variables">
+        <header>Variables</header>
+        <section>
+          <p>variables as symbolic names for values</p>
+          <p>JavaScript identifier</p>
+          <p> ISO 8859-1 or Unicode letters</p>
+        </section>
+      </section>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+header{
+  font-weight: bold;
+}
+
+@media (max width: 2000px){
+  nav{
+    display: block
+  }
+}
+
+** end of undefined **
+
